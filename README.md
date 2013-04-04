@@ -1,8 +1,7 @@
 Tetris in C
 -----------
 
-Projecto de Introdução Algoritmos e Estrutura de Dados / Introduction to Algorithms and Data Structures
-2009/2010 
+Projecto de Introdução Algoritmos e Estrutura de Dados (Introduction to Algorithms and Data Structures) 2009/2010 
 Instituto Superior Técnico
 
 
